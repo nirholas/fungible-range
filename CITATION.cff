@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "fungible-range"
+abstract: "A concentrated position with fungible shares, whose band widens every time it is forced to move."
+license: Apache-2.0
+repository-code: "https://github.com/nirholas/fungible-range"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"
