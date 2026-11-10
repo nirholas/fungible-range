@@ -1,0 +1,19 @@
+{
+  "name": "fungible-range",
+  "version": "1.0.0",
+  "description": "FungibleRangeHook Uniswap v4 hook: build, test, configure and deploy it with a mined CREATE2 salt.",
+  "author": {
+    "name": "nirholas"
+  },
+  "repository": "https://github.com/nirholas/fungible-range",
+  "license": "Apache-2.0",
+  "keywords": [
+    "uniswap-v4",
+    "hooks",
+    "solidity",
+    "foundry",
+    "liquidity",
+    "concentrated",
+    "rebalancing"
+  ]
+}
