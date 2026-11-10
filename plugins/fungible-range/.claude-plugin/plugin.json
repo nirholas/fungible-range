@@ -6,6 +6,7 @@
     "name": "nirholas"
   },
   "repository": "https://github.com/nirholas/fungible-range",
+  "homepage": "https://three.ws",
   "license": "Apache-2.0",
   "keywords": [
     "uniswap-v4",
